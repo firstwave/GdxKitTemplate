@@ -1,1 +1,2 @@
 include 'desktop', 'android', 'ios', 'core'
+include ':GdxKit:core', ':GdxKit:desktop', ':GdxKit:android', ':GdxKit:ios'

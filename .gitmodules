@@ -1,0 +1,3 @@
+[submodule "GdxKit"]
+	path = GdxKit
+	url = git@github.com:firstwave/GdxKit.git
